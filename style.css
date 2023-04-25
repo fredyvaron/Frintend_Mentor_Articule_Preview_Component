@@ -160,7 +160,7 @@ body {
     }
     .content-img {
         display: flex;
-        width: 30%;
+        width: 40%;
     }
     .img_contant{
         width: 100%;
@@ -172,7 +172,7 @@ body {
     
     }
     .card .content {
-        width: 70%;
+        width: 60%;
     }
     .card .content .card_content_user .card_popup {
         -webkit-transition: all 0.2s ease-in-out;
